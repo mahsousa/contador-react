@@ -1,4 +1,5 @@
 # Contador criado com React
+![Captura de tela 2022-01-18 215219](https://user-images.githubusercontent.com/32987989/150043011-5ba29368-42cf-4aa4-8ac6-e60bd2c11d8a.jpg)
 
 Aplicação para exercitar os conceitos básicos de React 
 
